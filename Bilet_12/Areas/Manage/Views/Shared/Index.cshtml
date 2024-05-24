@@ -1,0 +1,32 @@
+﻿@using Bilet_12.Models
+@model List<Portfolio>
+<div class="container">
+    
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Description</th>
+                <th scope="col">ImgFile</th>
+            </tr>
+        </thead>
+        <tbody>
+           @foreach(var item in Model)
+            {
+               
+                <tr>
+                    <th scope="row">1</th>
+                    <td>@item.Name</td>
+                    <td>@item.Description</td>
+                    <td>@item.ImgFile</td>
+                </tr>
+                <button type="button" class="btn btn-primary">Update</button>
+                <button type="button" class="btn btn-Danger">Delete</button>
+                <button type="button" class="btn btn-Dark">Create</button>
+            }
+
+        </tbody>
+    </table>
+
+</div>

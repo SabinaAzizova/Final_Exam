@@ -1,0 +1,35 @@
+﻿@using Bilet_12.Models
+@model  Portfolio //?<>,X
+
+  
+<div class="container">
+    <h1 method="post" >
+        int count==0;
+    </h1>
+    <form method="post" enctype="multipart/form-data">
+
+        <div class="form-group">
+            <label asp-for="Name" for="Name">Name</label>
+            <input  class="form-control" placeholder="Name">
+            <small class="form-text text-muted">Name</small>
+        </div>
+        <div class="form-group">
+            <label asp-for="Description" for="Description">Description</label>
+            <input class="form-control"  placeholder="Description">
+            <small  class="form-text text-muted">Description</small>
+        </div>
+        <div class="form-group">
+            <label asp-for="ImgFile" for="ImgFile">ImgFile</label>
+            <input class="form-control" placeholder="ImgFile">
+            <small class="form-text text-muted">ImgFile</small>
+            <span><a class="btn btn-dark">Update</a></span>
+        </div>
+
+        <span><img width="100" class="" />ImgUrl</span>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+
+
+</div>
+

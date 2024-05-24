@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r215.03\\Desktop\\Final_Exam\\Bilet_12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D605AEC-5110-4780-82C5-CBB39FE4E5A6}|Bilet_12.csproj|c:\\users\\ca.r215.03\\desktop\\final_exam\\bilet_12\\areas\\manage\\controllers\\dashboard\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D605AEC-5110-4780-82C5-CBB39FE4E5A6}|Bilet_12.csproj|solutionrelative:areas\\manage\\controllers\\dashboard\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D605AEC-5110-4780-82C5-CBB39FE4E5A6}|Bilet_12.csproj|c:\\users\\ca.r215.03\\desktop\\final_exam\\bilet_12\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D605AEC-5110-4780-82C5-CBB39FE4E5A6}|Bilet_12.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D605AEC-5110-4780-82C5-CBB39FE4E5A6}|Bilet_12.csproj|c:\\users\\ca.r215.03\\desktop\\final_exam\\bilet_12\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D605AEC-5110-4780-82C5-CBB39FE4E5A6}|Bilet_12.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D605AEC-5110-4780-82C5-CBB39FE4E5A6}|Bilet_12.csproj|c:\\users\\ca.r215.03\\desktop\\final_exam\\bilet_12\\areas\\manage\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D605AEC-5110-4780-82C5-CBB39FE4E5A6}|Bilet_12.csproj|solutionrelative:areas\\manage\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D605AEC-5110-4780-82C5-CBB39FE4E5A6}|Bilet_12.csproj|c:\\users\\ca.r215.03\\desktop\\final_exam\\bilet_12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D605AEC-5110-4780-82C5-CBB39FE4E5A6}|Bilet_12.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D605AEC-5110-4780-82C5-CBB39FE4E5A6}|Bilet_12.csproj|c:\\users\\ca.r215.03\\desktop\\final_exam\\bilet_12\\areas\\manage\\views\\models\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D605AEC-5110-4780-82C5-CBB39FE4E5A6}|Bilet_12.csproj|solutionrelative:areas\\manage\\views\\models\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D605AEC-5110-4780-82C5-CBB39FE4E5A6}|Bilet_12.csproj|c:\\users\\ca.r215.03\\desktop\\final_exam\\bilet_12\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D605AEC-5110-4780-82C5-CBB39FE4E5A6}|Bilet_12.csproj|solutionrelative:models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.03\\Desktop\\Final_Exam\\Bilet_12\\Areas\\Manage\\Views\\Shared\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\Shared\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.03\\Desktop\\Final_Exam\\Bilet_12\\Areas\\Manage\\Views\\Shared\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Manage\\Views\\Shared\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T08:28:22.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.03\\Desktop\\Final_Exam\\Bilet_12\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ca.r215.03\\Desktop\\Final_Exam\\Bilet_12\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:23:24.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.03\\Desktop\\Final_Exam\\Bilet_12\\Areas\\Manage\\Views\\Models\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\Models\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.03\\Desktop\\Final_Exam\\Bilet_12\\Areas\\Manage\\Views\\Models\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Manage\\Views\\Models\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T08:00:16.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.03\\Desktop\\Final_Exam\\Bilet_12\\Models\\Portfolio.cs",
+              "RelativeDocumentMoniker": "Models\\Portfolio.cs",
+              "ToolTip": "C:\\Users\\ca.r215.03\\Desktop\\Final_Exam\\Bilet_12\\Models\\Portfolio.cs",
+              "RelativeToolTip": "Models\\Portfolio.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:55:43.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.03\\Desktop\\Final_Exam\\Bilet_12\\Areas\\Manage\\Controllers\\Dashboard\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Controllers\\Dashboard\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.03\\Desktop\\Final_Exam\\Bilet_12\\Areas\\Manage\\Controllers\\Dashboard\\DashboardController.cs",
+              "RelativeToolTip": "Areas\\Manage\\Controllers\\Dashboard\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:53:06.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.03\\Desktop\\Final_Exam\\Bilet_12\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ca.r215.03\\Desktop\\Final_Exam\\Bilet_12\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:52:14.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.03\\Desktop\\Final_Exam\\Bilet_12\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ca.r215.03\\Desktop\\Final_Exam\\Bilet_12\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAgwAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:50:27.565Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
